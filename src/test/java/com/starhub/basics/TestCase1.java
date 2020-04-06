@@ -47,5 +47,13 @@ public class TestCase1
 		Assert.assertTrue(falg);
 	}
 	
+	
+	public void doRegistration()
+	{
+		
+		boolean flag = true;
+		
+		Assert.assertTrue(flag);
+	}
 
 }
