@@ -47,7 +47,7 @@ public class TestCase1
 		Assert.assertTrue(falg);
 	}
 	
-	
+	@Test
 	public void doRegistration()
 	{
 		
